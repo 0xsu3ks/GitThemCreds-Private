@@ -50,7 +50,7 @@ The objective here is to support Red Team Ops by automating the GitHub recon asp
 ## Usage
 `python3 GitThemCreds.py --help`
 
-![GitThemCreds Help Menu](./images/GitThemCreds-help.png]]
+![GitThemCreds Help Menu](./images/GitThemCreds-help.png)
 
 There are a few arguments, only one is required.
 ### Required Args
